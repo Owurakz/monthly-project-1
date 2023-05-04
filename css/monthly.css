@@ -1,0 +1,60 @@
+
+.navi>li{
+    padding-right: 10px; display: inline-flex; list-style: none; padding-top: 10px; position: relative; 
+    margin-bottom: 0px;
+}
+
+.navigation{
+    background-color: #E07A5F; border: 1px gold solid;
+}
+.firstsec{
+    margin-top: 10px;
+}
+
+input {
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: 1px solid grey;
+  	 width: 50%;
+	padding: 10px 0px 5px 20px;
+	margin-bottom:60px;
+	margin-top: 5px;
+	font-family: Helvetica;
+	
+}
+
+.thirdsec{
+    border: 1px solid black; margin-bottom: 20px; padding-bottom: 20px;  
+    font-family: Arial, Helvetica, sans-serif; margin-top: 20px; background-color: #17BEBB; border-radius: 7px;
+}
+
+body{
+    background-color: #BFD1E5; background-image:url(https://images4.alphacoders.com/606/606024.jpg); 
+    background-repeat: no-repeat; background-size: cover;
+}
+
+#fullname, #age, #Bestchar, #episode, #seasons, #email, #number{
+/* display: flex;  */
+ /* border: black 2px solid; */
+  padding-left: 20px; 
+padding-top: 10px; margin-top: 5px;
+
+}
+
+.form{
+    display: flex; margin-top: 5px; flex-direction: column; background-color: #6CCFF6; border: 0.5px red ; color: black;
+	height: 120px; width: 600px; margin-bottom:10px; border-radius: 7px; 
+	padding-left: 20px;
+}
+
+#Bestchar{
+    height: auto; display: flex;
+}
+
+.secondsec{
+    background-color: #FAD8D6; border-radius: 10px;
+}
+#para{
+    color: pink;
+}
